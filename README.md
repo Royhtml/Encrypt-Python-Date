@@ -42,7 +42,7 @@ print("Data terenkripsi:", encrypted)
 ## 5. Video Tutorial
 Berikut video penjelasan lengkap penggunaan encrypt di `encrypy.py`:
 
-[![Tata Cara Penggunaan Encrypt di encrypy.py](https://img.youtube.com/vi/2z0d5b7k5OI/0.jpg)](https://www.youtube.com/watch?v=2z0d5b7k5OI)
+<a href ="https://www.tiktok.com/@royhtml/video/7504045070161677574?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751"><img src ="https://www.mdpi.com/applsci/applsci-13-13071/article_deploy/html/images/applsci-13-13071-g001.png"></a>
 
 > Klik gambar di atas untuk menonton video.
 
